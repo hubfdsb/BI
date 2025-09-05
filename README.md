@@ -29,6 +29,7 @@ Chương 4: Phân tích học đề xuất (hệ hỗ trợ quyết định dự
 
 <img src="img/bi.png">
 
-# Zalo Group
+<img src="life_circle_ml.jpg">
 
+# Zalo Group
 <img src="BI.jpg">
