@@ -27,6 +27,7 @@ Chương 4: Phân tích học đề xuất (hệ hỗ trợ quyết định dự
 - Giải thích cách lập mô hình quy hoạch toăn (bài toán tối ưu).
 - Diễn giải các thuật ngữ: phân tích độ nhạy, phân tích tình huống và phân tích mô phỏng.
 
+<img src="main/img/bi.png" />
 # Zalo Group
 
 <img src="BI.jpg">
