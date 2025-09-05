@@ -2,4 +2,4 @@
 
 # Zalo Group
 
-<img src="BI.jpg />
+<img src="BI.jpg">
