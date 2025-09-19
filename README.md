@@ -30,6 +30,7 @@ Chương 4: Phân tích học đề xuất (hệ hỗ trợ quyết định dự
 <img src="w1/BI_overview2.jpg">
 <br>
 <br>
+<h2>CRISP-DM (CRoss-Industry Standard Process for Data Mining)</h2>
 <img src="w3/CRISP_DM.jpg">
 <br>
 <br>
