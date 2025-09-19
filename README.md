@@ -28,6 +28,10 @@ Chương 4: Phân tích học đề xuất (hệ hỗ trợ quyết định dự
 - Diễn giải các thuật ngữ: phân tích độ nhạy, phân tích tình huống và phân tích mô phỏng.
 
 <img src="w1/BI_overview2.jpg">
-
+<br>
+<br>
+<img src="w3/CRISP_DM.jpg">
+<br>
+<br>
 <img src="img/life_circle_ml.jpg">
 
