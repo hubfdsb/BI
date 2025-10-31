@@ -1,0 +1,15 @@
+Bread, Butter, Milk
+Bread, Diaper, Beer, Eggs
+Milk, Diaper, Beer, Cola
+Bread, Milk, Diaper, Beer
+Bread, Butter, Diaper, Milk, Eggs
+Eggs, Milk, Cheese
+Bread, Cheese, Butter
+Diaper, Beer, Cheese, Cola
+Bread, Butter, Cheese, Milk
+Bread, Milk, Butter, Diaper
+Beer, Eggs, Cola
+Bread, Butter, Eggs
+Bread, Butter, Milk, Cheese
+Diaper, Milk, Cheese, Cola
+Milk, Cheese, Butter
